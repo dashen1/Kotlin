@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/drawable/camera_selector_normal.xml" value="0.196" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/drawable/check_user_password_selector.xml" value="0.2255" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/drawable/corners_login_bg.xml" value="0.2255" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/drawable/corners_login_nomral.xml" value="0.2255" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/layout/activity_detail_link.xml" value="0.33229166666666665" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/layout/activity_main.xml" value="0.3515625" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/layout/activity_user_login.xml" value="0.3591485507246377" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/layout/activity_user_register.xml" value="0.29010416666666666" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/layout/dialog_loading.xml" value="0.2989583333333333" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/layout/fragment_collect.xml" value="0.31567028985507245" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/layout/fragment_home.xml" value="0.1388101983002833" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/menu/bottom_nav_menu.xml" value="0.32708333333333334" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/menu/collect_menu.xml" value="0.32708333333333334" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/menu/home_menu.xml" value="0.32708333333333334" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/app/src/main/res/menu/personal_menu.xml" value="0.32708333333333334" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/common/src/main/res/layout/activity_main.xml" value="0.2989583333333333" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/lib/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/android/Kotlin/KotlinLearning/xc/src/main/res/layout/activity_main.xml" value="0.17073170731707318" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
